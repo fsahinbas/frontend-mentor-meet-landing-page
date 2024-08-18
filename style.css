@@ -392,6 +392,11 @@ section.two .btn span {
     margin-right: auto;
   }
 
+  section.two {
+    background-image: url("./assets/desktop/image-footer.jpg");
+    background-position: top;
+  }
+
   section.two .content {
     width: 70rem;
     margin-left: calc(calc(100% - 70rem) / 2);
